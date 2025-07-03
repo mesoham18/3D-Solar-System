@@ -141,4 +141,4 @@ The built files will be in the `dist` directory, ready for deployment.
 
 Created with ❤️ using React, TypeScript, and Three.js
 
-**Live Demo**: https://66f8b8b8b8b8b8b8b8b8b8b8.netlify.app#
+**Live Demo**: https://phenomenal-biscochitos-40b0f5.netlify.app
